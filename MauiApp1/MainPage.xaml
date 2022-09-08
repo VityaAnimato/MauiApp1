@@ -23,7 +23,7 @@
             <Entry
                 x:Name="passwordEntry"
                 Placeholder="*****"
-                IsPassword="False"/>
+                IsPassword="True"/>
 
             <Button
                 x:Name="authorizeButton"
